@@ -2,7 +2,6 @@
   Hello, I'm TheNazgul42 ✨
 </h1>
 
-
 <div align="center">
   <img src="https://github.com/TheNazgul42.png" alt="Avatar" width="160" style="border-radius: 50%; border: 5px solid #8e44ad; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 </div>
@@ -57,11 +56,19 @@
 
 <hr style="margin: 2em auto; border: 0; height: 4px; width: 80%; background: linear-gradient(to right, #3498db, #8e44ad);">
 
-<h2 style="font-family: 'Montserrat', sans-serif; color: #8e44ad;">Projects & Stats</h2>
+<h2 style="font-family: 'Montserrat', sans-serif; color: #8e44ad;">Currently Learning</h2>
+<ul style="font-family: 'Montserrat', sans-serif; font-size: 1em; color: #444; line-height: 1.8; max-width: 800px; margin: auto;">
+  <li>🐹 <strong>Go</strong>
+  <li>🐳 <strong>Docker</strong>
+  <li>☸️ <strong>Kubernetes</strong>
+</ul>
+
+<hr style="margin: 2em auto; border: 0; height: 4px; width: 80%; background: linear-gradient(to right, #8e44ad, #3498db);">
+
+<h2 style="font-family: 'Montserrat', sans-serif; color: #3498db;">Projects & Stats</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=TheNazgul42&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px; max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNazgul42&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; max-width: 100%;">
 </div>
 
 <hr style="margin: 2em auto; border: 0; height: 3px; width: 80%; background: linear-gradient(to right, #8e44ad, #3498db);">
-
