@@ -61,6 +61,7 @@
   <li>🐹 <strong>Go</strong>
   <li>🐳 <strong>Docker</strong>
   <li>☸️ <strong>Kubernetes</strong>
+  <li>⚛️ <strong>React</strong>
 </ul>
 
 <hr style="margin: 2em auto; border: 0; height: 4px; width: 80%; background: linear-gradient(to right, #8e44ad, #3498db);">
