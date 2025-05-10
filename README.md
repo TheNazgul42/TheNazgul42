@@ -62,7 +62,11 @@
   <li>🐳 <strong>Docker</strong>
   <li>☸️ <strong>Kubernetes</strong>
   <li>⚛️ <strong>React</strong>
+  <li>🍃 <strong>Nuxt.js</strong>
+  <li>🌪️ <strong>Tailwind CSS</strong>
+  <li>📘 <strong>TypeScript</strong>
 </ul>
+
 
 <hr style="margin: 2em auto; border: 0; height: 4px; width: 80%; background: linear-gradient(to right, #8e44ad, #3498db);">
 
