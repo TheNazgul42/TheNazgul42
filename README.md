@@ -10,7 +10,7 @@
 
 <h2 style="font-family: 'Montserrat', sans-serif; color: #3498db;">About Me</h2>
 <p style="font-family: 'Montserrat', sans-serif; font-size: 1em; line-height: 1.6; color: #333; max-width: 800px; margin: auto;">
-  I am a Python developer passionate about building refined and innovative solutions. My expertise spans API development, machine learning, GUI design, and IoT innovations.
+  I am a developer passionate about building refined and innovative solutions. I enjoy building apis, backend, AI, WebDev, and IoT.
 </p>
 
 <hr style="margin: 2em auto; border: 0; height: 3px; width: 80%; background: linear-gradient(to right, #3498db, #8e44ad);">
@@ -19,7 +19,7 @@
 <ul style="font-family: 'Montserrat', sans-serif; font-size: 1em; color: #444; line-height: 1.8; max-width: 800px; margin: auto;">
   <li>🚀 <strong>API Development:</strong> Building sleek RESTful services using <a href="https://fastapi.tiangolo.com/" style="color: #8e44ad;">FastAPI</a>, <a href="https://www.djangoproject.com/" style="color: #8e44ad;">Django</a>, and <a href="https://flask.palletsprojects.com/" style="color: #8e44ad;">Flask</a>.</li>
   <li>🤖 <strong>Machine Learning:</strong> Designing models and genetic algorithms.</li>
-  <li>💻 <strong>GUI Applications:</strong> Crafting desktop interfaces (exploring <a href="https://nicegui.io/" style="color: #8e44ad;">niceGui</a>).</li>
+  <li>💻 <strong>GUI Applications:</strong> Crafting desktop interfaces (exploring <a href="https://nicegui.io/" style="color: #8e44ad;">niceGui</a> and nuxt).</li>
   <li>🌐 <strong>Networking & IoT:</strong> Innovating with network programming and IoT solutions on platforms like ESP32 and MicroPython.</li>
   <li>🕸️ <strong>Web Scraping:</strong> Automating data extraction using <a href="https://requests.readthedocs.io/" style="color: #8e44ad;">Requests</a> and <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" style="color: #8e44ad;">BeautifulSoup</a>.</li>
   <li>📊 <strong>Data Visualization & Analysis:</strong> Developing interactive dashboards with <a href="https://matplotlib.org/" style="color: #8e44ad;">Matplotlib</a>, <a href="https://seaborn.pydata.org/" style="color: #8e44ad;">Seaborn</a>, <a href="https://plotly.com/" style="color: #8e44ad;">Plotly</a>, <a href="https://pandas.pydata.org/" style="color: #8e44ad;">Pandas</a>, and <a href="https://numpy.org/" style="color: #8e44ad;">NumPy</a>.</li>
