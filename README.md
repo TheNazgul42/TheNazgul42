@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 3em; color: #8e44ad; margin-bottom: 0.2em; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
-  Hello, I'm TheNazgul42 ✨
+  Hello, I'm TheNazgul42
 </h1>
 
 <div align="center">
@@ -17,14 +17,14 @@
 
 <h2 style="font-family: 'Montserrat', sans-serif; color: #8e44ad;">What I Do</h2>
 <ul style="font-family: 'Montserrat', sans-serif; font-size: 1em; color: #444; line-height: 1.8; max-width: 800px; margin: auto;">
-  <li>🚀 <strong>API Development:</strong> Building sleek RESTful services using <a href="https://fastapi.tiangolo.com/" style="color: #8e44ad;">FastAPI</a>, <a href="https://www.djangoproject.com/" style="color: #8e44ad;">Django</a>, and <a href="https://flask.palletsprojects.com/" style="color: #8e44ad;">Flask</a>.</li>
-  <li>🤖 <strong>Machine Learning:</strong> Designing models and genetic algorithms.</li>
-  <li>💻 <strong>GUI Applications:</strong> Crafting desktop interfaces (exploring <a href="https://nicegui.io/" style="color: #8e44ad;">niceGui</a> and nuxt).</li>
-  <li>🌐 <strong>Networking & IoT:</strong> Innovating with network programming and IoT solutions on platforms like ESP32 and MicroPython.</li>
-  <li>🕸️ <strong>Web Scraping:</strong> Automating data extraction using <a href="https://requests.readthedocs.io/" style="color: #8e44ad;">Requests</a> and <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" style="color: #8e44ad;">BeautifulSoup</a>.</li>
-  <li>📊 <strong>Data Visualization & Analysis:</strong> Developing interactive dashboards with <a href="https://matplotlib.org/" style="color: #8e44ad;">Matplotlib</a>, <a href="https://seaborn.pydata.org/" style="color: #8e44ad;">Seaborn</a>, <a href="https://plotly.com/" style="color: #8e44ad;">Plotly</a>, <a href="https://pandas.pydata.org/" style="color: #8e44ad;">Pandas</a>, and <a href="https://numpy.org/" style="color: #8e44ad;">NumPy</a>.</li>
-  <li>🔒 <strong>Cybersecurity:</strong> Implementing robust security measures and penetration testing.</li>
-  <li>🔬 <strong>Scientific & Numeric Computing:</strong> Performing simulations and precise numerical analyses.</li>
+  <li><strong>API Development:</strong> Building sleek RESTful services using <a href="https://fastapi.tiangolo.com/" style="color: #8e44ad;">FastAPI</a>, <a href="https://www.djangoproject.com/" style="color: #8e44ad;">Django</a>, and <a href="https://flask.palletsprojects.com/" style="color: #8e44ad;">Flask</a>.</li>
+  <li><strong>Machine Learning:</strong> Designing models and genetic algorithms.</li>
+  <li><strong>GUI Applications:</strong> Crafting desktop interfaces (exploring <a href="https://nicegui.io/" style="color: #8e44ad;">niceGui</a> and nuxt).</li>
+  <li><strong>Networking & IoT:</strong> Innovating with network programming and IoT solutions on platforms like ESP32 and MicroPython.</li>
+  <li><strong>Web Scraping:</strong> Automating data extraction using <a href="https://requests.readthedocs.io/" style="color: #8e44ad;">Requests</a> and <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" style="color: #8e44ad;">BeautifulSoup</a>.</li>
+  <li><strong>Data Visualization & Analysis:</strong> Developing interactive dashboards with <a href="https://matplotlib.org/" style="color: #8e44ad;">Matplotlib</a>, <a href="https://seaborn.pydata.org/" style="color: #8e44ad;">Seaborn</a>, <a href="https://plotly.com/" style="color: #8e44ad;">Plotly</a>, <a href="https://pandas.pydata.org/" style="color: #8e44ad;">Pandas</a>, and <a href="https://numpy.org/" style="color: #8e44ad;">NumPy</a>.</li>
+  <li><strong>Cybersecurity:</strong> Implementing robust security measures and penetration testing.</li>
+  <li><strong>Scientific & Numeric Computing:</strong> Performing simulations and precise numerical analyses.</li>
 </ul>
 
 <hr style="margin: 2em auto; border: 0; height: 4px; width: 80%; background: linear-gradient(to right, #8e44ad, #3498db);">
@@ -56,15 +56,17 @@
 
 <hr style="margin: 2em auto; border: 0; height: 4px; width: 80%; background: linear-gradient(to right, #3498db, #8e44ad);">
 
-<h2 style="font-family: 'Montserrat', sans-serif; color: #8e44ad;">Currently Learning</h2>
+<h2 style="font-family: 'Montserrat', sans-serif; color: #8e44ad;">Currently Learning/working with</h2>
 <ul style="font-family: 'Montserrat', sans-serif; font-size: 1em; color: #444; line-height: 1.8; max-width: 800px; margin: auto;">
-  <li>🐹 <strong>Go</strong>
-  <li>🐳 <strong>Docker</strong>
-  <li>☸️ <strong>Kubernetes</strong>
-  <li>⚛️ <strong>React</strong>
-  <li>🍃 <strong>Nuxt.js</strong>
-  <li>🌪️ <strong>Tailwind CSS</strong>
-  <li>📘 <strong>TypeScript</strong>
+  <li><strong>Go</strong>
+  <li><strong>Docker</strong>
+  <li><strong>Podman</strong>
+  <li><strong>Kubernetes</strong>
+  <li><strong>React</strong>
+  <li><strong>Vue.js</strong>
+  <li><strong>Nuxt.js</strong>
+  <li><strong>Tailwind CSS</strong>
+  <li><strong>TypeScript</strong>
 </ul>
 
 
