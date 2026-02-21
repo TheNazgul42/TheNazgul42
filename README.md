@@ -36,6 +36,6 @@ Here's a breakdown of what I use to build things:
 ### Projects & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheNazgul42&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" style="margin: 10px; max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNazgul42&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" style="margin: 10px; max-width: 100%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheNazgul42&theme=radical&bg_color=0D1117" alt="GitHub Stats" style="margin: 10px; max-width: 100%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheNazgul42&theme=radical&bg_color=0D1117" alt="Top Languages" style="margin: 10px; max-width: 100%;">
 </div>
