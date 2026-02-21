@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm a software developer who likes to keep things simple, scalable, and practical. I enjoy working across the whole stack—from building solid APIs and backend architecture to crafting clean frontends. Lately, my absolute go-to for the frontend is **Nuxt**. 
+I'm a software developer who likes to keep things simple, scalable, and practical. I enjoy working across the whole stack - from building solid APIs and backend architecture to crafting clean frontends. Lately, my absolute go-to for the frontend is **Nuxt**. 
 
 Beyond standard web development, I love tinkering with Machine Learning, IoT (ESP32/MicroPython), and exploring Cybersecurity. If it involves code, data, or hardware, I'm probably interested in it.
 
